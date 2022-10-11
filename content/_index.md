@@ -1,6 +1,6 @@
 ---
-title: "Welcome to Blowfish! :tada:"
-description: "This is a demo of the Blowfish theme for Hugo."
+title: "Build a 2nd Brain 🧠"
+description: "A system that enables you to achieve more with less."
 ---
 
 {{< lead >}} Everything is connected {{< /lead >}}
