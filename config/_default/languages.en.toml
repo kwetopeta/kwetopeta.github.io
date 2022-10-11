@@ -1,0 +1,27 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "Second Brain by Example"
+# logo = "img/logo.png"
+description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2 January 2006"
+
+[author]
+  name = "2nd Brain"
+  image = "img/brain.png"
+  headline = "Free your mind!"
+  bio = "A little bit about you"
+   links = [
+    # { email = "mailto:33nano@duck.com" },
+     { link = "https://www.buildingasecondbrain.com/" },
+     { link = "https://maggieappleton.com/basb" },
+    { github = "https://rasulkireev.github.io/awesome-basb/" },
+ #   { tiktok = "https://tiktok.com/@kwetopeta" },
+ #   { youtube = "https://youtube.com/channel/UCOdjC-y5VobaBlYN53V_M6w" },
+   ]
